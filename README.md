@@ -23,8 +23,7 @@ After inputing the command "movie-this" "<movie>"
 Format: ![Alt Text](images/movie-this-no-input.png)
 After inputing the command "movie-this" with no input
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](images/spotify-this-input.png)
+!![Alt Text](images/spotify-this-input.png)
 After inputing the command "spotify-this-song" "<song>"
 
 ![GitHub Logo](/images/logo.png)
