@@ -7,6 +7,6 @@
 * "movie-this" asks user to input a movie. It hits the OMDB API and returns info about the movie
 * "do-what-it-says" reaches into the random.txt file and inputs the commands listed
 
-(images/concert-this-input.png)
+[Alt Text](images/concert-this-input.png)
 After inputing the command "concert-this" "<"artist">"
 
