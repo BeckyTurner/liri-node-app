@@ -1,0 +1,715 @@
+
+Artist_name                Song_Name                              Preview_Url                                               Album_Name                           
+-------------------------  -------------------------------------  --------------------------------------------------------  -------------------------------------
+Pitbull                    Hey Baby (Drop It to the Floor)        https://api.spotify.com/v1/tracks/3rfhI32Il2hVRKDkuGeeen  Hey Baby (Drop It to the Floor)      
+Stephen Marley             Hey Baby                               https://api.spotify.com/v1/tracks/1Bsl6Jw7bJtQ4pc7OQREog  Hey Baby                             
+Bruce Channel              Hey! Baby - Remastered                 https://api.spotify.com/v1/tracks/0obIo2GEab6qqms6t3JaMY  Hey! Baby - Remastered               
+blessthefall               Hey Baby, Here's That Song You Wanted  https://api.spotify.com/v1/tracks/6RbeLGGRcELEeKjMAplpap  Hey Baby, Here's That Song You Wanted
+Tungevaag & Raaban         Hey Baby                               https://api.spotify.com/v1/tracks/6SzbkrY8OH3fHlLwdni592  Hey Baby                             
+No Doubt                   Hey Baby                               https://api.spotify.com/v1/tracks/2QsoVMTKj5m5kgztTOep98  Hey Baby                             
+Ted Nugent                 Hey Baby                               https://api.spotify.com/v1/tracks/26arZyeKDvJc6pqjhayXNI  Hey Baby                             
+Dimitri Vegas & Like Mike  Hey Baby (feat. Debs's Daughter)       https://api.spotify.com/v1/tracks/0JWeXAsgB7Bz9I87hmGpB9  Hey Baby (feat. Debs's Daughter)     
+Flamingosis                Finesse (Hey Baby)                     https://api.spotify.com/v1/tracks/6aKEtd7dEepK0II3qqarDb  Finesse (Hey Baby)                   
+Texas Tornados             (Hey Baby) Que Paso                    https://api.spotify.com/v1/tracks/3ceG4WXZiaWQ7tRrBQMs6U  (Hey Baby) Que Paso                  
+
+**********SONG INFO*********
+0
+song name: Hey Look Ma, I Made It
+preview song: https://p.scdn.co/mp3-preview/724c46d8f0fb7ad7277eb244f1f865d33cd1f246?cid=fd0db99058e64d0697743dd41af07182
+album: Pray For The Wicked
+artist(s): Panic! At The Disco
+*****************************
+**********SONG INFO*********
+1
+song name: Hey Julie! (feat. Lil Yachty)
+preview song: https://p.scdn.co/mp3-preview/bd1734cf81b8d14de69c6c9d7bc85d5c8c24742a?cid=fd0db99058e64d0697743dd41af07182
+album: Hey Julie! (feat. Lil Yachty)
+artist(s): KYLE
+*****************************
+**********SONG INFO*********
+2
+song name: Hey, Soul Sister
+preview song: https://p.scdn.co/mp3-preview/29d3d8f13d8e96237d765dd61ecd0aa323776a31?cid=fd0db99058e64d0697743dd41af07182
+album: Save Me, San Francisco (Golden Gate Edition)
+artist(s): Train
+*****************************
+**********SONG INFO*********
+3
+song name: Hey There Delilah
+preview song: null
+album: All That We Needed
+artist(s): Plain White T's
+*****************************
+**********SONG INFO*********
+4
+song name: Ho Hey
+preview song: https://p.scdn.co/mp3-preview/57e57e6eb594e55de01b85cea4d470243f6121f5?cid=fd0db99058e64d0697743dd41af07182
+album: The Lumineers
+artist(s): The Lumineers
+*****************************
+**********SONG INFO*********
+5
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/5d3194868fad490abeed9804ac9c708bd3109da8?cid=fd0db99058e64d0697743dd41af07182
+album: Speakerboxxx/The Love Below
+artist(s): OutKast
+*****************************
+**********SONG INFO*********
+6
+song name: Snow (Hey Oh)
+preview song: https://p.scdn.co/mp3-preview/2824b10f1392dff3a3c95309a205d6f3e2ea56ad?cid=fd0db99058e64d0697743dd41af07182
+album: Stadium Arcadium
+artist(s): Red Hot Chili Peppers
+*****************************
+**********SONG INFO*********
+7
+song name: Hey Jude - Remastered 2015
+preview song: null
+album: 1 (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+8
+song name: Hey Brother
+preview song: null
+album: True
+artist(s): Avicii
+*****************************
+**********SONG INFO*********
+9
+song name: Hey Ma
+preview song: null
+album: Come Home With Me
+artist(s): Cam’ron
+*****************************
+**********SONG INFO*********
+10
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/6c69ee9ec863053388b7c06fea9f42a66775acbc?cid=fd0db99058e64d0697743dd41af07182
+album: The Way You Move / Hey Ya!
+artist(s): OutKast
+*****************************
+**********SONG INFO*********
+11
+song name: Hey You
+preview song: https://p.scdn.co/mp3-preview/a03fcdbf2223e1fe78f886770b0797553b924fc6?cid=fd0db99058e64d0697743dd41af07182
+album: The Wall
+artist(s): Pink Floyd
+*****************************
+**********SONG INFO*********
+12
+song name: Hey Joe
+preview song: https://p.scdn.co/mp3-preview/28fc8b1b9826ddc224d26b4df661fb79f1b94351?cid=fd0db99058e64d0697743dd41af07182
+album: Are You Experienced
+artist(s): Jimi Hendrix
+*****************************
+**********SONG INFO*********
+13
+song name: Hey
+preview song: https://p.scdn.co/mp3-preview/b316a9e69bd4b6ba754fb205ca70173ce2ef182c?cid=fd0db99058e64d0697743dd41af07182
+album: Doolittle
+artist(s): Pixies
+*****************************
+**********SONG INFO*********
+14
+song name: Hey DJ
+preview song: https://p.scdn.co/mp3-preview/0d5518f094511a505c78bc8b337e876fd3ea893c?cid=fd0db99058e64d0697743dd41af07182
+album: CNCO
+artist(s): CNCO
+*****************************
+**********SONG INFO*********
+15
+song name: HEY CHILD
+preview song: null
+album: HEY CHILD
+artist(s): X Ambassadors
+*****************************
+**********SONG INFO*********
+16
+song name: Hey There Delilah
+preview song: null
+album: Every Second Counts
+artist(s): Plain White T's
+*****************************
+**********SONG INFO*********
+17
+song name: Hey Jealousy
+preview song: null
+album: Outside Looking In: The Best Of The Gin Blossoms
+artist(s): Gin Blossoms
+*****************************
+**********SONG INFO*********
+18
+song name: Hey Girl
+preview song: null
+album: We Are Tonight
+artist(s): Billy Currington
+*****************************
+**********SONG INFO*********
+19
+song name: Hey Pretty Girl
+preview song: null
+album: Up All Night
+artist(s): Kip Moore
+*****************************
+Artist: Panic! At The Disco
+Song name: Hey Look Ma, I Made It
+Album Name: Pray For The Wicked
+Preview Link: https://p.scdn.co/mp3-preview/724c46d8f0fb7ad7277eb244f1f865d33cd1f246?cid=fd0db99058e64d0697743dd41af07182
+[object Object]Artist: Panic! At The Disco
+Song name: Hey Look Ma, I Made It
+Album Name: Pray For The Wicked
+Preview Link: https://p.scdn.co/mp3-preview/724c46d8f0fb7ad7277eb244f1f865d33cd1f246?cid=fd0db99058e64d0697743dd41af07182
+[object Object]**********SONG INFO*********
+0
+song name: Hey Look Ma, I Made It
+preview song: https://p.scdn.co/mp3-preview/724c46d8f0fb7ad7277eb244f1f865d33cd1f246?cid=fd0db99058e64d0697743dd41af07182
+album: Pray For The Wicked
+artist(s): Panic! At The Disco
+*****************************
+**********SONG INFO*********
+1
+song name: Hey Julie! (feat. Lil Yachty)
+preview song: https://p.scdn.co/mp3-preview/bd1734cf81b8d14de69c6c9d7bc85d5c8c24742a?cid=fd0db99058e64d0697743dd41af07182
+album: Hey Julie! (feat. Lil Yachty)
+artist(s): KYLE
+*****************************
+**********SONG INFO*********
+2
+song name: Hey, Soul Sister
+preview song: https://p.scdn.co/mp3-preview/29d3d8f13d8e96237d765dd61ecd0aa323776a31?cid=fd0db99058e64d0697743dd41af07182
+album: Save Me, San Francisco (Golden Gate Edition)
+artist(s): Train
+*****************************
+**********SONG INFO*********
+3
+song name: Hey There Delilah
+preview song: null
+album: All That We Needed
+artist(s): Plain White T's
+*****************************
+**********SONG INFO*********
+4
+song name: Ho Hey
+preview song: https://p.scdn.co/mp3-preview/57e57e6eb594e55de01b85cea4d470243f6121f5?cid=fd0db99058e64d0697743dd41af07182
+album: The Lumineers
+artist(s): The Lumineers
+*****************************
+**********SONG INFO*********
+5
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/5d3194868fad490abeed9804ac9c708bd3109da8?cid=fd0db99058e64d0697743dd41af07182
+album: Speakerboxxx/The Love Below
+artist(s): OutKast
+*****************************
+**********SONG INFO*********
+6
+song name: Snow (Hey Oh)
+preview song: https://p.scdn.co/mp3-preview/2824b10f1392dff3a3c95309a205d6f3e2ea56ad?cid=fd0db99058e64d0697743dd41af07182
+album: Stadium Arcadium
+artist(s): Red Hot Chili Peppers
+*****************************
+**********SONG INFO*********
+7
+song name: Hey Jude - Remastered 2015
+preview song: null
+album: 1 (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+8
+song name: Hey Brother
+preview song: null
+album: True
+artist(s): Avicii
+*****************************
+**********SONG INFO*********
+9
+song name: Hey Ma
+preview song: null
+album: Come Home With Me
+artist(s): Cam’ron
+*****************************
+**********SONG INFO*********
+10
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/6c69ee9ec863053388b7c06fea9f42a66775acbc?cid=fd0db99058e64d0697743dd41af07182
+album: The Way You Move / Hey Ya!
+artist(s): OutKast
+*****************************
+**********SONG INFO*********
+11
+song name: Hey You
+preview song: https://p.scdn.co/mp3-preview/a03fcdbf2223e1fe78f886770b0797553b924fc6?cid=fd0db99058e64d0697743dd41af07182
+album: The Wall
+artist(s): Pink Floyd
+*****************************
+**********SONG INFO*********
+12
+song name: Hey Joe
+preview song: https://p.scdn.co/mp3-preview/28fc8b1b9826ddc224d26b4df661fb79f1b94351?cid=fd0db99058e64d0697743dd41af07182
+album: Are You Experienced
+artist(s): Jimi Hendrix
+*****************************
+**********SONG INFO*********
+13
+song name: Hey
+preview song: https://p.scdn.co/mp3-preview/b316a9e69bd4b6ba754fb205ca70173ce2ef182c?cid=fd0db99058e64d0697743dd41af07182
+album: Doolittle
+artist(s): Pixies
+*****************************
+**********SONG INFO*********
+14
+song name: Hey DJ
+preview song: https://p.scdn.co/mp3-preview/0d5518f094511a505c78bc8b337e876fd3ea893c?cid=fd0db99058e64d0697743dd41af07182
+album: CNCO
+artist(s): CNCO
+*****************************
+**********SONG INFO*********
+15
+song name: HEY CHILD
+preview song: null
+album: HEY CHILD
+artist(s): X Ambassadors
+*****************************
+**********SONG INFO*********
+16
+song name: Hey There Delilah
+preview song: null
+album: Every Second Counts
+artist(s): Plain White T's
+*****************************
+**********SONG INFO*********
+17
+song name: Hey Jealousy
+preview song: null
+album: Outside Looking In: The Best Of The Gin Blossoms
+artist(s): Gin Blossoms
+*****************************
+**********SONG INFO*********
+18
+song name: Hey Girl
+preview song: null
+album: We Are Tonight
+artist(s): Billy Currington
+*****************************
+**********SONG INFO*********
+19
+song name: Hey Pretty Girl
+preview song: null
+album: Up All Night
+artist(s): Kip Moore
+*****************************
+**********SONG INFO*********
+0
+song name: Hey Look Ma, I Made It
+preview song: https://p.scdn.co/mp3-preview/724c46d8f0fb7ad7277eb244f1f865d33cd1f246?cid=fd0db99058e64d0697743dd41af07182
+album: Pray For The Wicked
+artist(s): Panic! At The Disco
+*****************************
+**********SONG INFO*********
+1
+song name: Hey Julie! (feat. Lil Yachty)
+preview song: https://p.scdn.co/mp3-preview/bd1734cf81b8d14de69c6c9d7bc85d5c8c24742a?cid=fd0db99058e64d0697743dd41af07182
+album: Hey Julie! (feat. Lil Yachty)
+artist(s): KYLE
+*****************************
+**********SONG INFO*********
+2
+song name: Hey, Soul Sister
+preview song: https://p.scdn.co/mp3-preview/29d3d8f13d8e96237d765dd61ecd0aa323776a31?cid=fd0db99058e64d0697743dd41af07182
+album: Save Me, San Francisco (Golden Gate Edition)
+artist(s): Train
+*****************************
+**********SONG INFO*********
+3
+song name: Hey There Delilah
+preview song: null
+album: All That We Needed
+artist(s): Plain White T's
+*****************************
+**********SONG INFO*********
+4
+song name: Ho Hey
+preview song: https://p.scdn.co/mp3-preview/57e57e6eb594e55de01b85cea4d470243f6121f5?cid=fd0db99058e64d0697743dd41af07182
+album: The Lumineers
+artist(s): The Lumineers
+*****************************
+**********SONG INFO*********
+5
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/5d3194868fad490abeed9804ac9c708bd3109da8?cid=fd0db99058e64d0697743dd41af07182
+album: Speakerboxxx/The Love Below
+artist(s): OutKast
+*****************************
+**********SONG INFO*********
+6
+song name: Snow (Hey Oh)
+preview song: https://p.scdn.co/mp3-preview/2824b10f1392dff3a3c95309a205d6f3e2ea56ad?cid=fd0db99058e64d0697743dd41af07182
+album: Stadium Arcadium
+artist(s): Red Hot Chili Peppers
+*****************************
+**********SONG INFO*********
+7
+song name: Hey Jude - Remastered 2015
+preview song: null
+album: 1 (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+8
+song name: Hey Brother
+preview song: null
+album: True
+artist(s): Avicii
+*****************************
+**********SONG INFO*********
+9
+song name: Hey Ma
+preview song: null
+album: Come Home With Me
+artist(s): Cam’ron
+*****************************
+**********SONG INFO*********
+10
+song name: Hey Ya!
+preview song: https://p.scdn.co/mp3-preview/6c69ee9ec863053388b7c06fea9f42a66775acbc?cid=fd0db99058e64d0697743dd41af07182
+album: The Way You Move / Hey Ya!
+artist(s): OutKast
+*****************************
+**********SONG INFO*********
+11
+song name: Hey You
+preview song: https://p.scdn.co/mp3-preview/a03fcdbf2223e1fe78f886770b0797553b924fc6?cid=fd0db99058e64d0697743dd41af07182
+album: The Wall
+artist(s): Pink Floyd
+*****************************
+**********SONG INFO*********
+12
+song name: Hey Joe
+preview song: https://p.scdn.co/mp3-preview/28fc8b1b9826ddc224d26b4df661fb79f1b94351?cid=fd0db99058e64d0697743dd41af07182
+album: Are You Experienced
+artist(s): Jimi Hendrix
+*****************************
+**********SONG INFO*********
+13
+song name: Hey
+preview song: https://p.scdn.co/mp3-preview/b316a9e69bd4b6ba754fb205ca70173ce2ef182c?cid=fd0db99058e64d0697743dd41af07182
+album: Doolittle
+artist(s): Pixies
+*****************************
+**********SONG INFO*********
+14
+song name: Hey DJ
+preview song: https://p.scdn.co/mp3-preview/0d5518f094511a505c78bc8b337e876fd3ea893c?cid=fd0db99058e64d0697743dd41af07182
+album: CNCO
+artist(s): CNCO
+*****************************
+**********SONG INFO*********
+15
+song name: HEY CHILD
+preview song: null
+album: HEY CHILD
+artist(s): X Ambassadors
+*****************************
+**********SONG INFO*********
+16
+song name: Hey There Delilah
+preview song: null
+album: Every Second Counts
+artist(s): Plain White T's
+*****************************
+**********SONG INFO*********
+17
+song name: Hey Jealousy
+preview song: null
+album: Outside Looking In: The Best Of The Gin Blossoms
+artist(s): Gin Blossoms
+*****************************
+**********SONG INFO*********
+18
+song name: Hey Girl
+preview song: null
+album: We Are Tonight
+artist(s): Billy Currington
+*****************************
+**********SONG INFO*********
+19
+song name: Hey Pretty Girl
+preview song: null
+album: Up All Night
+artist(s): Kip Moore
+*****************************
+**********SONG INFO*********
+0
+song name: Die A Happy Man
+preview song: null
+album: Tangled Up
+artist(s): Thomas Rhett
+*****************************
+**********SONG INFO*********
+1
+song name: Happy Now
+preview song: https://p.scdn.co/mp3-preview/a2c9677593d52774f89c7d2dd2e810ba4faac01c?cid=fd0db99058e64d0697743dd41af07182
+album: Happy Now
+artist(s): Kygo
+*****************************
+**********SONG INFO*********
+2
+song name: Happy Now
+preview song: null
+album: Happy Now
+artist(s): Zedd
+*****************************
+**********SONG INFO*********
+3
+song name: Tongue Tied
+preview song: https://p.scdn.co/mp3-preview/2147e7bd8762aa4f7f1ce38ba02cfa618c530758?cid=fd0db99058e64d0697743dd41af07182
+album: Never Trust A Happy Song
+artist(s): Grouplove
+*****************************
+**********SONG INFO*********
+4
+song name: Written in the Sand
+preview song: https://p.scdn.co/mp3-preview/359e57ee6223012c21e12eeb5ad310a72cfb8cd3?cid=fd0db99058e64d0697743dd41af07182
+album: Happy Endings
+artist(s): Old Dominion
+*****************************
+**********SONG INFO*********
+5
+song name: Happy - From "Despicable Me 2"
+preview song: https://p.scdn.co/mp3-preview/67cffdcb7e3c82a5eb2e5f0bb235d377ccc94eeb?cid=fd0db99058e64d0697743dd41af07182
+album: G I R L
+artist(s): Pharrell Williams
+*****************************
+**********SONG INFO*********
+6
+song name: Happy Together
+preview song: https://p.scdn.co/mp3-preview/be70befd16aac0ed18e1bab29513f5d84188415c?cid=fd0db99058e64d0697743dd41af07182
+album: Happy Together
+artist(s): The Turtles
+*****************************
+**********SONG INFO*********
+7
+song name: Happy & Sad
+preview song: null
+album: Golden Hour
+artist(s): Kacey Musgraves
+*****************************
+**********SONG INFO*********
+8
+song name: Happy?
+preview song: https://p.scdn.co/mp3-preview/a4972554181a20b1c1b259666f1a5955d526d91e?cid=fd0db99058e64d0697743dd41af07182
+album: Lost and Found
+artist(s): Mudvayne
+*****************************
+**********SONG INFO*********
+9
+song name: Hotel Key
+preview song: https://p.scdn.co/mp3-preview/9846ea6520f40b1fe001f884fcae59a7467329fa?cid=fd0db99058e64d0697743dd41af07182
+album: Happy Endings
+artist(s): Old Dominion
+*****************************
+**********SONG INFO*********
+10
+song name: No Such Thing as a Broken Heart
+preview song: https://p.scdn.co/mp3-preview/a4f06f6466519e35acb54d9a8e84a15379389174?cid=fd0db99058e64d0697743dd41af07182
+album: Happy Endings
+artist(s): Old Dominion
+*****************************
+**********SONG INFO*********
+11
+song name: Don't Worry Be Happy
+preview song: null
+album: Simple Pleasures
+artist(s): Bobby McFerrin
+*****************************
+**********SONG INFO*********
+12
+song name: Ratchet Happy Birthday
+preview song: null
+album: Scorpion
+artist(s): Drake
+*****************************
+**********SONG INFO*********
+13
+song name: Happy Pills
+preview song: https://p.scdn.co/mp3-preview/70f0decc2f0fa4924ef4d0c68026789f2676f47c?cid=fd0db99058e64d0697743dd41af07182
+album: Happy Pills
+artist(s): Weathers
+*****************************
+**********SONG INFO*********
+14
+song name: Happy
+preview song: https://p.scdn.co/mp3-preview/82009531006a80bac310faca74b03778d6bbb69c?cid=fd0db99058e64d0697743dd41af07182
+album: Hurts 2B Human
+artist(s): P!nk
+*****************************
+**********SONG INFO*********
+15
+song name: Fake Happy
+preview song: https://p.scdn.co/mp3-preview/62dbd4df9d5a3bce321f79073954bcc9fbb6b2f7?cid=fd0db99058e64d0697743dd41af07182
+album: After Laughter
+artist(s): Paramore
+*****************************
+**********SONG INFO*********
+16
+song name: Happy Without Me
+preview song: https://p.scdn.co/mp3-preview/96ce71a63a74f310ef72563f4be51d0ab8a0ffc7?cid=fd0db99058e64d0697743dd41af07182
+album: The Kids Are Alright
+artist(s): Chloe x Halle
+*****************************
+**********SONG INFO*********
+17
+song name: Surprise Party (feat. Blackbear)
+preview song: https://p.scdn.co/mp3-preview/ac0a9650612b4d7c4f0f35282851bf54e42db662?cid=fd0db99058e64d0697743dd41af07182
+album: Happy Camper
+artist(s): Hoodie Allen
+*****************************
+**********SONG INFO*********
+18
+song name: Happy
+preview song: null
+album: Inner Monologue Part 1
+artist(s): Julia Michaels
+*****************************
+**********SONG INFO*********
+19
+song name: If It Makes You Happy
+preview song: null
+album: Sheryl Crow
+artist(s): Sheryl Crow
+*****************************
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+**********MOVIE INFO*********
+Title: Matrix
+Release Year: 1993–
+IMDB Rating: 8.2
+------------------------------ begin ------------------------------
+Title: Matrix
+Year: 1993–
+Imdb Rating: 8.2
+Rotten Tomatoes Rating: N/A
+Country: Canada
+Language: English
+Plot: Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix "dies" and finds ...
+Actors: Nick Mancuso, Phillip Jarrett, Carrie-Anne Moss, John Vernon
+------------------------------ end ------------------------------
+
+spotify-this-song,"Hey Girl"**********EVENT INFO*********
+0
+Name of the Venue: Surrounded & United Tour
+Venue Location: Bismarck
+Date of the Event: 2019-05-11T19:00:45
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Love Song Couples Getaway - Kauai, Hawaii
+Venue Location: Koloa
+Date of the Event: 2019-05-26T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Jesus Freak Cruise
+Venue Location: Nassau
+Date of the Event: 2019-06-10T19:00:22
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Newsboys UNITED - KTIS Joyful Noise - National Sports Center
+Venue Location: Blaine
+Date of the Event: 2019-06-15T21:00:15
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: NEWSBOYS - Risefest
+Venue Location: Sheldon
+Date of the Event: 2019-06-22T09:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: NEWSBOYS - Jellyfish Fest
+Venue Location: Ocean City
+Date of the Event: 2019-06-23T19:00:50
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: NEWSBOYS - Magic Springs Concert Series
+Venue Location: Hot Springs
+Date of the Event: 2019-06-29T19:00:06
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: NEWSBOYS - Night Vision - Olathe Community Park
+Venue Location: Olathe
+Date of the Event: 2019-07-13T21:00:41
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: NEWSBOYS - Fun Fest
+Venue Location: Kingsport
+Date of the Event: 2019-07-18T19:00:24
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: NEWSBOYS - Porter County Fair
+Venue Location: Valparaiso
+Date of the Event: 2019-07-20T19:00:36
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: NEWSBOYS - OneFest Festival
+Venue Location: Chippewa Falls
+Date of the Event: 2019-07-27T09:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: NEWSBOYS - Redemption Inside the Walls
+Venue Location: Jefferson City
+Date of the Event: 2019-08-17T19:00:10
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: NEWSBOYS - Crawford County Fair
+Venue Location: Meadville
+Date of the Event: 2019-08-22T19:30:11
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: NEWSBOYS - One Church Event
+Venue Location: Escanaba
+Date of the Event: 2019-08-24T19:00:28
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: NEWSBOYS - Harvest Crusade - Angels Stadium
+Venue Location: Anaheim
+Date of the Event: 2019-08-25T19:00:57
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Newsboys UNITED - Evergreen State Fair
+Venue Location: Monroe
+Date of the Event: 2019-08-28T19:30:31
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Newsboys UNITED - The Oregon State Fair
+Venue Location: Salem
+Date of the Event: 2019-08-29T19:00:50
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: Newsboys UNITED - Walworth County Fair
+Venue Location: Elkhorn
+Date of the Event: 2019-09-01T19:30:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: Newsboys United - The Big Fresno Fair
+Venue Location: Fresno
+Date of the Event: 2019-10-09T19:00:13
+*****************************

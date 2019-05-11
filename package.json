@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/BeckyTurner/liri-node-app/issues"
   },
-  "homepage": "https://github.com/BeckyTurner/liri-node-app#readme"
+  "homepage": "https://github.com/BeckyTurner/liri-node-app#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bandsintown": "^1.0.1",
+    "console.table": "^0.10.0",
+    "dotenv": "^8.0.0",
+    "node-spotify-api": "^1.1.1",
+    "spotify": "^0.3.0",
+    "trilogy": "^1.4.5",
+    "twitter": "^1.7.1"
+  }
 }
