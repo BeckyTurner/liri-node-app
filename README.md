@@ -7,24 +7,24 @@
 * "movie-this" asks user to input a movie. It hits the OMDB API and returns info about the movie
 * "do-what-it-says" reaches into the random.txt file and inputs the commands listed
 
-!(images/concert-this-input.png)
-After inputing the command "concert-this" "<artist>"
+![Alt Text](images/concert-this-input.png)
+After inputing the command "concert-this" (artist)
 
-!(images/concert-this-no-input.png)
+![Alt Text](images/concert-this-no-input.png)
 After inputing the command "concert-this" with no input
 
-!(images/movie-this-input.png)
-After inputing the command "movie-this" "<movie>"
+![Alt Text](images/movie-this-input.png)
+After inputing the command "movie-this" (movie)
 
-!(images/movie-this-no-input.png)
+![Alt Text](images/movie-this-no-input.png)
 After inputing the command "movie-this" with no input
 
 ![Alt Text](images/spotify-this-input.png)
-After inputing the command "spotify-this-song" "<song>"
+After inputing the command "spotify-this-song" (song)
 
-!(images/spotify-this-no-input.png)
+![Alt Text](images/spotify-this-no-input.png)
 After inputing the command "spotify-this-song" with no input
 
-!(images/do-what-it-says.png)
+![Alt Text](images/do-what-it-says.png)
 After inputing the command "do-what-it-says" 
 
